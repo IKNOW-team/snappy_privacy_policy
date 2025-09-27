@@ -50,3 +50,66 @@
 
 
 **最終更新日：2025年9月27日**
+
+
+---
+
+# Privacy Policy
+
+This Privacy Policy describes how the mobile application **“SNAPPY”** (hereinafter referred to as “the App”) handles user information and data.
+Please read this policy carefully before using the App.
+
+## 1. Information We Collect
+
+The App may access or use the following information:
+
+Screenshots or images stored on the device (temporarily used for OCR processing and tagging)
+
+App usage data and crash reports (for service improvement)
+
+Screenshots and images from the device will only be accessed with the user’s consent.
+
+## 2. Purpose of Use
+
+The collected information is used for the following purposes:
+
+Displaying and managing screenshots and images on the device
+
+Providing OCR (Optical Character Recognition) and automatic tagging features using Google’s external AI services
+
+Improving app usability and service quality
+
+## 3. Use of External Services
+
+The App uses the following external services for data processing:
+
+Google Cloud Vision API
+Screenshots or images from the device are sent to perform OCR (text recognition).
+
+Google Generative AI (generative-ai API)
+Images or text data may be sent to generate tags based on OCR results or image content.
+
+These services are provided by Google LLC and are processed in accordance with Google’s Privacy Policy (https://policies.google.com/privacy
+).
+
+The App does not store any images or recognition results on its own servers. Processing results are returned only to the user’s device.
+
+## 4. Disclosure of Information to Third Parties
+
+The App does not provide users’ personal information to third parties except in the following cases:
+
+With the user’s consent
+
+When required by law
+
+When necessary to protect human life, body, or property
+
+## 5. Security
+
+All transmitted data is encrypted during communication and appropriately protected.
+
+## 6. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time as necessary. Updates will take effect when published within the App or on its distribution page.
+
+**Last Updated: September 27, 2025**
